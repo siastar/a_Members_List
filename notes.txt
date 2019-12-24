@@ -1,0 +1,10 @@
+1) create a project folder
+2) run "$npm init -y" to create package.json file
+	-y option say yes to all package.json file creation (creates a standard file)
+3) run "$npm i express" to install npm's express modules
+
+how I did it:
+   (V.F.)
+
+everything starts in /index.js which is launched with node index.js
+or for developing npm run dev, that launches nodemon.
